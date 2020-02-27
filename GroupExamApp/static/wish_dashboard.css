@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+#wrapper{
+    width: 70%;
+    height: 800px;
+    margin: 0px auto;
+
+}
+
+
+#header{
+    width: 70%;
+    height: 50px;
+    padding: 30px 5px;
+
+}
+
+
+#header_name{
+    display: inline-block;
+    font-size: 20px;
+
+}
+
+
+.header_link{
+    display: inline-block;
+
+}
+
+.table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
